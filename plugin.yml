@@ -1,0 +1,9 @@
+ name: adminTools
+ version: 1.0
+ main: Main.Main
+ description: This plugin is so 31337. You can set yourself on fire.
+ 
+ commands:
+   admintools:
+     description: Set yourself on fire.
+
